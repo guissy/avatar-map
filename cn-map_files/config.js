@@ -1,5 +1,5 @@
 System.config({
-  baseURL: "/Demo01",
+  baseURL: "/avatar-map",
   defaultJSExtensions: true,
   transpiler: "typescript",
   paths: {
